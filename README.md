@@ -6,7 +6,7 @@
 
 ### Загрузочный экран
 + Создан анимированный загрузочный экран.
-++ ![loadScreen](https://github.com/KovalMark/ScreenshotApp/blob/master/SCN/loadScreen.png)
++ ![loadScreen](https://github.com/KovalMark/ScreenshotApp/blob/master/SCN/loadScreen.png)
 
 ### Экран авторизации
 + Разработан экран авторизации с проверкой введенного пользователем логина и пароля.

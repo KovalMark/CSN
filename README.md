@@ -1,45 +1,45 @@
 # CSN
 
-Здравствуйте! Рад представить прототип приложения, с кастомными ui-элементами.
+Hello! I am glad to present a prototype of the application, with custom UI elements.
 
-## Реализованный функционал:
+## Implemented functionality:
 
-### Загрузочный экран
-+ Создан анимированный загрузочный экран.
+### Load screen
++ An animated loading screen has been created.
     + ![loadScreen](https://github.com/KovalMark/ScreenshotApp/blob/master/SCN/loadScreen.png)
 
-### Экран авторизации
-+ Разработан экран авторизации с проверкой введенного пользователем логина и пароля.
+### Authorisation screen
++ An authorisation screen has been developed with verification of the username and password entered by the user.
     + ![loadScreen](https://github.com/KovalMark/ScreenshotApp/blob/master/SCN/ErrorLoginPassword.png)
 
-### Экран со списком друзей
-+ Создан экран, отображающий список друзей пользователя.
-+ Сделана группировка друзей по первой букве фамилии.
-+ Добавлена анимация нажатия на аватарку пользователя.
-+ Разработана кастомная View для фото пользователя.
+### Friends list screen
++ A screen has been created that displays a list of the user's friends.
++ Friends are grouped by the first letter of the surname.
++ Added animation of clicking on the user's avatar.
++ A custom View for the user's photo has been developed.
     + ![loadScreen](https://github.com/KovalMark/ScreenshotApp/blob/master/SCN/FriendsList.png)
     
-### Экран с фотографиями друзей
-+ Создан экран, отображающий список фотографий друга.
-+ Создан контрол «Мне нравится», с помощью которого можно поставить лайк под фотографией пользователя.
-+ Подготовлена анимация контрола «Мне нравится».
+### Screen with photos of friends
++ A screen has been created displaying a list of photos of a friend.
++ A "Like" control has been created, with which you can put a like under the user's photo.
++ Animation of the "I like" control has been prepared.
     + ![loadScreen](https://github.com/KovalMark/ScreenshotApp/blob/master/SCN/CustomLike.png)
-+ На экране просмотра фото, добавлена возможность просматривать все снимки по очереди.
-+ Сделана анимация перелистывания фотографии.
++ On the photo viewing screen, the ability to view all the pictures in turn has been added.
++ Animation of flipping through the photo has been made.
     + ![loadScreen](https://github.com/KovalMark/ScreenshotApp/blob/master/SCN/Photos.png)
     + ![loadScreen](https://github.com/KovalMark/ScreenshotApp/blob/master/SCN/AnimatePhotos.png)
 
-### Экран со списком групп
-+ Создан экран, отображающий список групп пользователя.
-+ Разработана кастомная View для фото группы.
-+ Добавлена анимация нажатия на аватарку группы.
+### A screen with a list of groups
++ A screen has been created that displays a list of user groups.
++ A custom View for the group photo has been developed.
++ Added animation of clicking on the avatar of the group.
     + ![loadScreen](https://github.com/KovalMark/ScreenshotApp/blob/master/SCN/Groups.png)
-+ Реализована функция добавления и удаления групп пользователя.
++ The function of adding and deleting user groups is implemented.
     + ![loadScreen](https://github.com/KovalMark/ScreenshotApp/blob/master/SCN/DeleteGroups.png)
-+ Добавлен UISearchBar для поиска нужной группы из таблицы.
++ Added a UISearchBar to search for the desired group from the table.
     + ![loadScreen](https://github.com/KovalMark/ScreenshotApp/blob/master/SCN/SearchGroups.png)
 
-### Экран с новостями
-+ Создан экран новостей.
-+ Разработана кастомная ячейка для новости.
+### News screen
++ A news screen has been created.
++ A custom cell for news has been developed.
     + ![loadScreen](https://github.com/KovalMark/ScreenshotApp/blob/master/SCN/XibCell.png)
